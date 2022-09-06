@@ -1,0 +1,44 @@
+1662471778261	geckodriver	INFO	Listening on 127.0.0.1:59645
+1662471781327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileIIj5ZX"
+1662471782074	Marionette	INFO	Marionette enabled
+1662471782082	Marionette	INFO	Listening on port 59657
+WebDriver BiDi listening on ws://localhost:59646
+Read port: 59657
+1662471782248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileIIj5ZX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59646/devtools/browser/1d20d1f1-de11-4535-a7c5-93c67beeb6ef
+1662471792147	Marionette	INFO	Stopped listening on port 59657
+1662471814580	geckodriver	INFO	Listening on 127.0.0.1:59706
+1662471817641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofile8Tgno8"
+1662471818044	Marionette	INFO	Marionette enabled
+1662471818050	Marionette	INFO	Listening on port 59716
+WebDriver BiDi listening on ws://localhost:59707
+Read port: 59716
+1662471818179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofile8Tgno8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59707/devtools/browser/7ba01860-b152-43e7-9dd4-4d670c458586
+1662471826464	Marionette	INFO	Stopped listening on port 59716
+[Parent 20560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662472001635	geckodriver	INFO	Listening on 127.0.0.1:59858
+1662472004706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileqzeyJi"
+1662472005363	Marionette	INFO	Marionette enabled
+1662472005371	Marionette	INFO	Listening on port 59879
+WebDriver BiDi listening on ws://localhost:59859
+Read port: 59879
+1662472005791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileqzeyJi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59859/devtools/browser/46dafe53-183c-483d-9b0f-90e591ffe684
+1662472014214	Marionette	INFO	Stopped listening on port 59879
+[Parent 16340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662472078441	geckodriver	INFO	Listening on 127.0.0.1:59958
+1662472081488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileYoHc5L"
+1662472082035	Marionette	INFO	Marionette enabled
+1662472082042	Marionette	INFO	Listening on port 59969
+Read port: 59969
+WebDriver BiDi listening on ws://localhost:59959
+1662472082183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maxko\\AppData\\Local\\Temp\\rust_mozprofileYoHc5L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59959/devtools/browser/aefaf028-4c50-4de2-8fea-80c4e76feefb
+1662472090186	Marionette	INFO	Stopped listening on port 59969
